@@ -1,0 +1,1 @@
+words = ["Albania","Australia","Belgium","Brazil","Bosnia and Herzegovina","Colombia","Croatia","Denmark","	Ecuador","Germany","Iceland","Ireland","Montenegro","North Macedonia","Norway","Spain","Sweden","Switzerland","Turkey",]
